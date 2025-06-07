@@ -12,6 +12,7 @@
     "declaration": true,
     "declarationMap": true,
     "emitDeclarationOnly": false,
+    "rootDir": "src"
   },
   "include": ["src"]
 }
