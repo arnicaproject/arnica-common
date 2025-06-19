@@ -1,14 +1,14 @@
 {
-  "name": "arnica-common",
+  "name": "primrose-lib",
   "version": "1.0.5",
-  "description": "Common utilities for Arnica CRM",
-  "homepage": "https://github.com/arnicaproject/arnica-common#readme",
+  "description": "Common utilities for Primrose CRM",
+  "homepage": "https://github.com/primrosecrm/primrose-lib#readme",
   "bugs": {
-    "url": "https://github.com/arnicaproject/arnica-common/issues"
+    "url": "https://github.com/primrosecrm/primrose-lib/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/arnicaproject/arnica-common.git"
+    "url": "git+https://github.com/primrosecrm/primrose-lib.git"
   },
   "license": "ISC",
   "author": "",
